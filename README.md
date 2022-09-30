@@ -1,4 +1,4 @@
-# Implementation of Conditional Variational Autoencoder (cVAE) for Materials Design with Tailored Mechanical Properties
+# Conditional Variational Autoencoder (cVAE) for Materials Design with Tailored Mechanical Properties
 
 This repository consists of example code for the implementation of one of the common generative model architectures: conditional Variational Autoencoders (cVAE). VAEs represent each datapoint as probability distribution and embedds the meanningful relations in low-dimensional latent space. These models can be used to perform inverse materials design, which means it is possible to predict structure ot processing parameters for given target material properties.
 
