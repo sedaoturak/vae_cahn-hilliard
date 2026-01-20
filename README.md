@@ -1,4 +1,4 @@
-# Variational Autoencoder (VAE) with Mechanical MNIST (Cahn-Hilliard)
+# Variational Autoencoder (VAE) with Mechanical MNIST (Cahn-Hilliard) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sedaoturak/vae_cahn-hilliard/blob/main/VAE_Cahn_Hillard.ipynb)
 
 ## Goal
 This repository consists of a notebook for the implementation of one of the common generative model architectures: Variational Autoencoder (VAE) in material science domain. VAEs represent each datapoint as probability distribution and embeds the meaningful relations between the datapoints in the low-dimensional latent space. These models can be used to perform inverse materials design, which enables to predict the structure or the processing parameters for given target material properties.
